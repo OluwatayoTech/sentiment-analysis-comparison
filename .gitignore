@@ -1,0 +1,5 @@
+﻿aclImdb/
+aclImdb_v1.tar.gz
+*.tar.gz
+__pycache__/
+.ipynb_checkpoints/
